@@ -19,20 +19,19 @@ import AfzalliklarImg3 from "./img/AfzalliklarImg3.webp";
 import yangiliklarimg1 from "./img/yangiliklarimg1.webp";
 import yangiliklarimg2 from "./img/yangiliklarimg2.webp";
 
-import Jismoniyshaxslarimg1 from "./img/jismoniyshaxslarimg1.webp";
-import Jismoniyshaxslarimg2 from "./img/jismoniyshaxslarimg2.webp";
-import Jismoniyshaxslarimg3 from "./img/jismoniyshaxslarimg3.webp";
-import Jismoniyshaxslarimg4 from "./img/jismoniyshaxslarimg4.webp";
-import Jismoniyshaxslarimg5 from "./img/jismoniyshaxslarimg5.webp";
-import Jismoniyshaxslarimg6 from "./img/jismoniyshaxslarimg6.webp";
+import Jismoniyshaxslarimg1 from "./img/Jismoniyshaxslarimg1.webp";
+import Jismoniyshaxslarimg2 from "./img/Jismoniyshaxslarimg2.webp";
+import Jismoniyshaxslarimg3 from "./img/Jismoniyshaxslarimg3.webp";
+import Jismoniyshaxslarimg4 from "./img/Jismoniyshaxslarimg4.webp";
+import Jismoniyshaxslarimg5 from "./img/Jismoniyshaxslarimg5.webp";
+import Jismoniyshaxslarimg6 from "./img/Jismoniyshaxslarimg6.webp";
 
-import Yuridikshaxslarimg1 from "./img/yuridikshaxslarimg1.webp";
-import Yuridikshaxslarimg2 from "./img/yuridikshaxslarimg2.webp";
-import Yuridikshaxslarimg3 from "./img/yuridikshaxslarimg3.webp";
-import Yuridikshaxslarimg4 from "./img/yuridikshaxslarimg4.webp";
-import Yuridikshaxslarimg5 from "./img/yuridikshaxslarimg5.webp";
-import Yuridikshaxslarimg6 from "./img/yuridikshaxslarimg6.webp";
-
+import Yuridikshaxslarimg1 from "./img/Yuridikshaxslarimg1.webp";
+import Yuridikshaxslarimg2 from "./img/Yuridikshaxslarimg2.webp";
+import Yuridikshaxslarimg3 from "./img/Yuridikshaxslarimg3.webp";
+import Yuridikshaxslarimg4 from "./img/Yuridikshaxslarimg4.webp";
+import Yuridikshaxslarimg5 from "./img/Yuridikshaxslarimg5.webp";
+import Yuridikshaxslarimg6 from "./img/Yuridikshaxslarimg6.webp";Y
 export const jismoniyShaxslarData = [
   {
     title: "Ma'muriy ishlar",
