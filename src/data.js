@@ -31,7 +31,7 @@ import Yuridikshaxslarimg2 from "./img/Yuridikshaxslarimg2.webp";
 import Yuridikshaxslarimg3 from "./img/Yuridikshaxslarimg3.webp";
 import Yuridikshaxslarimg4 from "./img/Yuridikshaxslarimg4.webp";
 import Yuridikshaxslarimg5 from "./img/Yuridikshaxslarimg5.webp";
-import Yuridikshaxslarimg6 from "./img/Yuridikshaxslarimg6.webp";Y
+import Yuridikshaxslarimg6 from "./img/Yuridikshaxslarimg6.webp";
 export const jismoniyShaxslarData = [
   {
     title: "Ma'muriy ishlar",
