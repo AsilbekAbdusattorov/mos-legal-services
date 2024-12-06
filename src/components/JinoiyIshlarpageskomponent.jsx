@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Jismoniyshaxslarimg from "../img/jismoniyshaxslarimg3.webp";
+import Jismoniyshaxslarimg from "../img/Jismoniyshaxslarimg3.webp";
 import CriminalJusticeImg from "../img/criminal-justice.png"; // Qo'shimcha rasm
 import EvidenceImg from "../img/evidence.png"; // Dalilga oid rasm
 import Location from "../components/Location";
